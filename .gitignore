@@ -1,7 +1,7 @@
 # Compiled class file
 *.class
-.setting
-bin/veritipleri
+!ghost_folder/.setting
+!ghost_folder/bin/veritipleri
 
 # Log file
 *.log
