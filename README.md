@@ -1,2 +1,2 @@
-#Java Dersler notları
-##Java Veri tipleri çalışması
+# Java Dersler notları
+## Java Veri tipleri çalışması
